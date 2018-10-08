@@ -1,0 +1,428 @@
+C:\Users\ASUS\Desktop\customs\CustomsApp\CustomsApp\bin\Debug\CustomsApp.exe.config
+C:\Users\ASUS\Desktop\customs\CustomsApp\CustomsApp\bin\Debug\CustomsApp.exe
+C:\Users\ASUS\Desktop\customs\CustomsApp\CustomsApp\bin\Debug\CustomsApp.pdb
+C:\Users\ASUS\Desktop\customs\CustomsApp\CustomsApp\obj\Debug\CustomsApp.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\customs\CustomsApp\CustomsApp\obj\Debug\CustomsApp.Properties.Resources.resources
+C:\Users\ASUS\Desktop\customs\CustomsApp\CustomsApp\obj\Debug\CustomsApp.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\customs\CustomsApp\CustomsApp\obj\Debug\CustomsApp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\customs\CustomsApp\CustomsApp\obj\Debug\CustomsApp.exe
+C:\Users\ASUS\Desktop\customs\CustomsApp\CustomsApp\obj\Debug\CustomsApp.pdb
+C:\Users\ASUS\Desktop\customs\CustomsApp\CustomsApp\bin\Debug\MaterialSkin.dll
+C:\Users\ASUS\Desktop\customs\CustomsApp\CustomsApp\obj\Debug\CustomsApp.formMain.resources
+C:\Users\ASUS\Desktop\customs\CustomsApp\CustomsApp\obj\Debug\CustomsApp.ctrlProduct.resources
+C:\Users\ASUS\Desktop\customs\CustomsApp\CustomsApp\obj\Debug\CustomsApp.UserControls.ctrlImporter.resources
+C:\Users\ASUS\Desktop\customs\CustomsApp\CustomsApp\obj\Debug\CustomsApp.UserControls.ctrlVessels.resources
+C:\Users\ASUS\Desktop\customs\CustomsApp\CustomsApp\obj\Debug\CustomsApp.UserControls.ctrlExporter.resources
+C:\Users\ASUS\Desktop\customs\CustomsApp\CustomsApp\obj\Debug\CustomsApp.UserControls.ctrlExporterBranch.resources
+C:\Users\ASUS\Desktop\customs\CustomsApp\CustomsApp\obj\Debug\CustomsApp.UserControls.ctrlProductSearch.resources
+C:\Users\ASUS\Desktop\customs\CustomsApp\CustomsApp\obj\Debug\CustomsApp.UserControls.ctrlTrans.resources
+C:\Users\ASUS\Desktop\customs\CustomsApp\CustomsApp\obj\Debug\CustomsApp.UserControls.ctrlUsers.resources
+C:\Users\ASUS\Desktop\customs\CustomsApp\CustomsApp\obj\Debug\CustomsApp.UserControls.ctrlExaminer.resources
+C:\Users\ASUS\Desktop\customs\CustomsApp\CustomsApp\obj\Debug\CustomsApp.formLogin.resources
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.csprojResolveAssemblyReference.cache
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.formLogin.resources
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.formMain.resources
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.Properties.Resources.resources
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.UserControls.ctrlExaminer.resources
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.UserControls.ctrlExporter.resources
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.UserControls.ctrlExporterBranch.resources
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.UserControls.ctrlImporter.resources
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.ctrlProduct.resources
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.UserControls.ctrlProductSearch.resources
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.UserControls.ctrlTrans.resources
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.UserControls.ctrlUsers.resources
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.UserControls.ctrlVessels.resources
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.csproj.GenerateResource.Cache
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.exe
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.pdb
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.csproj.CustomsApp.exe.config
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.ReportViewer.resources
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Reports\ReportExportDeclarationWithCo.rdlc
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Reports\ReportExportDeclarationWithoutCo.rdlc
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Reports\ReportStat.rdlc
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Reports\ReportTopExporCommodity.rdlc
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Reports\ReportTopExportDestination.rdlc
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Reports\ReportTopExporter.rdlc
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\CustomsApp.exe.config
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\CustomsApp.exe
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\CustomsApp.pdb
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\MaterialSkin.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\EnvDTE.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\stdole.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\EnvDTE80.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.Build.Tasks.Core.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\VSLangProj.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\VSLangProj80.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Newtonsoft.Json.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\System.Threading.Tasks.Dataflow.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.MSXML.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.Build.Utilities.Core.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.Build.Framework.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\VSLangProj2.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\customs - sep4\CustomsApp\CustomsApp\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Reports\ReportExportDeclarationWithCo.rdlc
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Reports\ReportExportDeclarationWithoutCo.rdlc
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Reports\ReportStat.rdlc
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Reports\ReportTopExporCommodity.rdlc
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Reports\ReportTopExportDestination.rdlc
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Reports\ReportTopExporter.rdlc
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\CustomsApp.exe.config
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\CustomsApp.exe
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\CustomsApp.pdb
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\MaterialSkin.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\EnvDTE.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\stdole.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\EnvDTE80.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\VSLangProj.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\VSLangProj80.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\VSLangProj2.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.csproj.CustomsApp.exe.config
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.formLogin.resources
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.formMain.resources
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.Properties.Resources.resources
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.ReportViewer.resources
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.UserControls.ctrlExaminer.resources
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.UserControls.ctrlExporter.resources
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.UserControls.ctrlExporterBranch.resources
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.UserControls.ctrlImporter.resources
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.ctrlProduct.resources
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.UserControls.ctrlProductSearch.resources
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.UserControls.ctrlTrans.resources
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.UserControls.ctrlUsers.resources
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.UserControls.ctrlVessels.resources
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.exe
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.pdb
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\LiveCharts.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\LiveCharts.pdb
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\LiveCharts.xml
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\ASUS\Desktop\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Reports\ReportExportDeclarationWithCo.rdlc
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Reports\ReportExportDeclarationWithoutCo.rdlc
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Reports\ReportStat.rdlc
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Reports\ReportTopExporCommodity.rdlc
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Reports\ReportTopExportDestination.rdlc
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Reports\ReportTopExporter.rdlc
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\CustomsApp.exe.config
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\CustomsApp.exe
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\CustomsApp.pdb
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\LiveCharts.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\MaterialSkin.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\EnvDTE.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\stdole.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\EnvDTE80.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.Build.Tasks.Core.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\VSLangProj.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\VSLangProj80.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\System.Threading.Tasks.Dataflow.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.MSXML.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.Build.Utilities.Core.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.Build.Framework.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\VSLangProj2.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\LiveCharts.pdb
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\LiveCharts.xml
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.csproj.CustomsApp.exe.config
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.formLogin.resources
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.formMain.resources
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.ReportViewer.resources
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.UserControls.ctrlExaminer.resources
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.UserControls.ctrlExporter.resources
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.UserControls.ctrlExporterBranch.resources
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.UserControls.ctrlImporter.resources
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.ctrlProduct.resources
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.UserControls.ctrlProductSearch.resources
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.UserControls.ctrlTrans.resources
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.UserControls.ctrlUsers.resources
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.UserControls.ctrlVessels.resources
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.exe
+C:\Users\ASUS\Desktop\Projects\custom merge\customs - sep4 (2)\customs - sep4\CustomsApp\CustomsApp\obj\Debug\CustomsApp.pdb
